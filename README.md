@@ -42,7 +42,13 @@
       </tr>
     </table>
 </html>
-
-  
+<html>
+    <h1>Авторы</h1> 
+<tr>
+    <td><img src="https://orenburgkniga.ru/wp-content/uploads/b/2/0/b20c1f0730a6a3e1e36477c82876fe2a.jpeg" width="500px" height="500px"/>Льюис Керолл</td>
+<tr>
+    <td><img src="https://narrativespecies.files.wordpress.com/2016/03/ernest_cline-2015.jpg?w=600" width="500px" height="500px" />Эрнес Клайн</td>
+<tr>
+    <td><img src="https://potterland.ru/uploads/posts/2015-12/1450789856_20bookgalbraithjp-superjumbo-0.jpg" width="500px" height="500px" />Джуан Роулинг</td>
         
           
